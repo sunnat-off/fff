@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Livvic", sans-serif;
+    font-weight: normal;
+}
+    
+.container {
+    max-width: 1150px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.polar-box-logo{
+    width: 100%;
+    padding: 0 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Show-all{
+    margin-left: 1030px;
+    color: #000000;
+}
+.all-watch{
+    width: 100%;
+    display: flex;
+}
+
+
+.logo-box-list-ul{
+    width:450px;
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+    list-style-type: none;
+}
+.logo-box-bin{
+    width: 205px;
+    height: 64px;
+    background-color:#000000;
+    color: #fff;
+    font-size: 18px;
+    border:1px solid #222;
+    padding: 5px 15px;  
+    border-radius: 5px;
+}
+.header-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header-text-par{
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.header-text-p{
+    width: 430px;
+    margin-bottom:  35px;
+}
+.header-text-p{
+    width:280px;
+    height:34px;
+}
+.polar-box-logo-1{
+    background-image: url("./img/background_banner_1.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.polar-box-logo-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mein-kach{
+    width: 900px;
+}
+
+.main-kech-text{
+    margin-left: 50px;
+}
+.lll{
+    height: 50px;
+}
+.big{
+    width: 150px;
+    height: 50px;
+    background-color:antiquewhite
+}  
+.position{
+    width: 100px;
+    height: 150px;
+}
+.b{
+    display: flex;
+    justify-content: space-between;
+}
+.position{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+.bag{
+    width:700px;
+    height: 12px;
+}
+
+
+
+
